@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+
+   <movie title ="Star Wars">
+          <rank>8.7</rank>
+          <year>1977</year>
+
+   </movie>
+
+   <movie title = "The Empire Strikes Back">
+          <rank>8.8</rank>
+          <year>1980</year>
+   </movie>
+
+   <movie title = "Return of the Jedi">
+          <rank>8.4</rank>
+          <year>1983</year>
+  </movie>
+</movies>
